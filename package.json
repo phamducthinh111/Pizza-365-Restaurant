@@ -1,0 +1,17 @@
+{
+  "name": "task-507.40-expressjs-pizza365-homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thinhpd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "rand-token": "^1.0.1"
+  }
+}
